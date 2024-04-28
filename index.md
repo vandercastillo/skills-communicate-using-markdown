@@ -1,3 +1,7 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 # Hi this is the header 1
 
 
